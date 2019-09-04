@@ -1,8 +1,8 @@
-package cmsc256;
+//package cmsc256;	\\ use package statement for gradescope
 
-/*
-*	Programmer #1: Caitlyn Dela Cruz 
-*	Programmer #2: Colin Coon
+/*	CMSC256 Lab3 - Complete the following recursive methods and test using your own main method. 
+*	9/4/2019
+*	Colin Coon
 */
 
 public class RecursiveMethods {
